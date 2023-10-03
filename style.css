@@ -1,0 +1,115 @@
+body{
+  background-color: lightblue;
+  background-image: url("img/bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+    
+}
+
+
+.judul{
+  text-align: center;
+  color: black;
+}
+
+.img1{
+  height: 400px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img2{
+  height: 400px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img3{
+  height: 400px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img4{
+  height: 400px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img5{
+  height: 400px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.holder{
+  text-align: center;
+	margin: 10px;
+	font-size: 13pt;
+	padding: 10px;	
+	background: transparent;
+	color: #fff;
+	font-family: roboto;
+	border: none;
+}
+ 
+.holder:focus{
+	outline: none;
+}
+ 
+.holder::-webkit-input-placeholder{
+	color: white;
+}
+ 
+
+.holder:-moz-input-placeholder{
+	color: white;
+}
+ 
+
+.holder:-ms-input-placeholder{
+	color: white;
+}
+
+.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.next {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
